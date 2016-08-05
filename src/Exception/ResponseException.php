@@ -8,7 +8,7 @@ use FireTruck\API\ResponseInterface;
 /**
  * FireTruck API Response Exception
  *
- * @author Leo Flapper <leo.flapper@slicklabs.nl>
+ * @author Leo Flapper <info@leoflapper.nl>
  * @version 1.0.0
  */ 
 final class ResponseException extends FiretruckAPIException implements ResponseExceptionInterface, ResponseInterface

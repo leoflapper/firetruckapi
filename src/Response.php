@@ -3,10 +3,9 @@
 namespace FireTruck\API;
 
 /**
- * 
  * FireTruck API Response
  *
- * @author Leo Flapper <leo.flapper@slicklabs.nl>
+ * @author Leo Flapper <info@leoflapper.nl>
  * @version 1.0.0
  */
 class Response implements ResponseInterface

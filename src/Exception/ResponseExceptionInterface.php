@@ -5,7 +5,7 @@ namespace FireTruck\API\Exception;
 /**
  * FireTruck API Response Exception Interface
  *
- * @author Leo Flapper <leo.flapper@slicklabs.nl>
+ * @author Leo Flapper <info@leoflapper.nl>
  * @version 1.0.0
  */ 
 interface ResponseExceptionInterface
