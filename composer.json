@@ -1,0 +1,32 @@
+{
+    "name": "firetruck/api",
+    "type": "library",
+    "description": "FireTruck v1 wrapper for PHP",
+    "keywords": [
+        "firetruck",
+        "php",
+        "psr-7"
+    ],
+    "homepage": "https://slicklabs.nl/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Flapper",
+            "email": "leo.flapper@slicklabs.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle":"~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FireTruck\\API\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FireTruck\\API\\": "src/"
+        }
+    }
+}
