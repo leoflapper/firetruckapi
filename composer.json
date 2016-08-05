@@ -7,12 +7,12 @@
         "php",
         "psr-7"
     ],
-    "homepage": "https://slicklabs.nl/",
+    "homepage": "https://leoflapper.nl/",
     "license": "MIT",
     "authors": [
         {
             "name": "Leo Flapper",
-            "email": "leo.flapper@slicklabs.nl"
+            "email": "info@leoflapper.nl"
         }
     ],
     "require": {
